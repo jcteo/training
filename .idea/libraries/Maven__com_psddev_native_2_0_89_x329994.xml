@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:native:2.0.89-x329994">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/native/2.0.89-x329994/native-2.0.89-x329994.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/native/2.0.89-x329994/native-2.0.89-x329994-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/native/2.0.89-x329994/native-2.0.89-x329994-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

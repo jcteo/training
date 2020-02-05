@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:aws-core:1.1.305-x1b576d">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/aws-core/1.1.305-x1b576d/aws-core-1.1.305-x1b576d.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/aws-core/1.1.305-x1b576d/aws-core-1.1.305-x1b576d-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/aws-core/1.1.305-x1b576d/aws-core-1.1.305-x1b576d-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -14,9 +14,11 @@ import com.psddev.styleguide.training.character.CharacterPageView;
 import com.psddev.styleguide.training.character.CharacterPageViewBiographyField;
 import com.psddev.styleguide.training.character.CharacterPageViewFeaturedMoviesField;
 import com.psddev.styleguide.training.character.CharacterPageViewImageField;
+import com.psddev.styleguide.training.character.CharacterPageViewTeamField;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Optional;
 
 public class CharacterPageViewModel extends AbstractContentPageViewModel<Character> implements CharacterPageView, PageEntryView {
 
@@ -100,6 +102,11 @@ public class CharacterPageViewModel extends AbstractContentPageViewModel<Charact
     @Override
     public CharSequence getName() {
         return model.getName();
+    }
+
+    @Override
+    public Iterable<? extends CharacterPageViewTeamField> getTeam() {
+        return createViews(CharacterPageViewTeamField.class, model.getTeam());
     }
 
     // Page Support.

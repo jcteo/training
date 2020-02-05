@@ -1,0 +1,12 @@
+{
+  "_wrapper": false,
+  "_template": "Museum.hbs",
+  "name": "MMMMMM",
+  "description": {
+    "_include": "/_group/RichText.json",
+    "_key": 0
+  },
+  "works": {
+    "_include": "Art.json"
+  }
+}

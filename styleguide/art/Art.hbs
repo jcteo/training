@@ -1,0 +1,10 @@
+<h2>{{name}}</h2>
+<p>{{description}}</div>
+{{#element "image"}}
+  <div class="art-image">
+    <img src="{{this.src}}" width="{{this.width}}" height="{{this.height}}"/>
+  </div>
+{{/element}}
+{{#with artist}}
+  <div class="art-artist">{{this}}</div>
+{{/with}}

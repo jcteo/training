@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:theme:1.0.179-x465ff3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/theme/1.0.179-x465ff3/theme-1.0.179-x465ff3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/theme/1.0.179-x465ff3/theme-1.0.179-x465ff3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/theme/1.0.179-x465ff3/theme-1.0.179-x465ff3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

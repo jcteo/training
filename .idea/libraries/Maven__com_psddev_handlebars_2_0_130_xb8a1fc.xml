@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:handlebars:2.0.130-xb8a1fc">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/handlebars/2.0.130-xb8a1fc/handlebars-2.0.130-xb8a1fc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/handlebars/2.0.130-xb8a1fc/handlebars-2.0.130-xb8a1fc-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/handlebars/2.0.130-xb8a1fc/handlebars-2.0.130-xb8a1fc-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

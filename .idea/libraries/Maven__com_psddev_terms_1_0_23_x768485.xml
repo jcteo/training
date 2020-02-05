@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:terms:1.0.23-x768485">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/terms/1.0.23-x768485/terms-1.0.23-x768485.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/terms/1.0.23-x768485/terms-1.0.23-x768485-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/terms/1.0.23-x768485/terms-1.0.23-x768485-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+{
+  "_template": "Art.hbs",
+  "name": "Art Name",
+  "image": {
+    "_image": true
+  },
+  "description": "{{words(10)}}",
+  "artist": {
+    "_include": "ArtistPromo.json"
+  }
+}

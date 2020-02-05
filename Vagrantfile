@@ -12,6 +12,9 @@ Vagrant.configure('2') do |config|
     # Set a unique box name here, or leave blank to have it assigned for you.
     vb.name = 'brightspot-training'
 
+    home = File.expand_path('~')
+    config.vm.synced_folder home, home, type: 'nfs'
+
     # Modify advanced settings here. See documentation for details.
     # https://www.virtualbox.org/manual/ch08.html#vboxmanage-modifyvm
     vb.customize ['modifyvm', :id, '--memory', '4096']

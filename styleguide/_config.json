@@ -102,6 +102,9 @@
     },
     "/twitter/card/TwitterPlayerCard.hbs": {
       "image": "twitterSharing"
+    },
+    "/art/Art.hbs": {
+      "image": "small"
     }
   },
   "styles": {},

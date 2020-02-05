@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:rss:1.0.14-x9e4e08">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/rss/1.0.14-x9e4e08/rss-1.0.14-x9e4e08.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/rss/1.0.14-x9e4e08/rss-1.0.14-x9e4e08-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/rss/1.0.14-x9e4e08/rss-1.0.14-x9e4e08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:image:1.2.60-xe15eaa">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/image/1.2.60-xe15eaa/image-1.2.60-xe15eaa.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/image/1.2.60-xe15eaa/image-1.2.60-xe15eaa-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/image/1.2.60-xe15eaa/image-1.2.60-xe15eaa-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

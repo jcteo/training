@@ -1,6 +1,7 @@
 package bex.training.character;
 
 import bex.training.util.TrainingUtils;
+import bex.training.team.Team;
 import brightspot.core.image.ImageOption;
 import brightspot.core.link.Linkable;
 import brightspot.core.permalink.AutoPermalink;
@@ -56,6 +57,8 @@ public abstract class Character extends Content implements AutoPermalink,
     @ToolUi.Placeholder(dynamicText = "${content.getNamePlaceholder()}")
     private String name;
 
+    private Team team;
+
     private ImageOption image;
 
     @ToolUi.Placeholder(dynamicText = "${content.getBiographyFallback()}")
@@ -102,6 +105,14 @@ public abstract class Character extends Content implements AutoPermalink,
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public Team getTeam() {
+        return  team;
+    }
+
+    public void setTeam(Team team) {
+        this.team = team;
     }
 
     public ImageOption getImage() {

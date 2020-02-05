@@ -12,5 +12,8 @@
   "featuredMovies": {
     "_include": "/core/list/List.json"
   },
+  "team": {
+    "_include": "/training/team/Team.json"
+  },
   "_hidden": false
 }

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.psddev:push:2.3.30-x686698">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/push/2.3.30-x686698/push-2.3.30-x686698.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/push/2.3.30-x686698/push-2.3.30-x686698-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/psddev/push/2.3.30-x686698/push-2.3.30-x686698-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

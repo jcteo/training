@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bex-training.iml" filepath="$PROJECT_DIR$/bex-training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/bex-training-core.iml" filepath="$PROJECT_DIR$/core/bex-training-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/bex-training-frontend.iml" filepath="$PROJECT_DIR$/frontend/bex-training-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/bex-training-site.iml" filepath="$PROJECT_DIR$/site/bex-training-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themes/bex-training-theme-frost/bex-training-theme-frost.iml" filepath="$PROJECT_DIR$/themes/bex-training-theme-frost/bex-training-theme-frost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themes/bex-training-themes.iml" filepath="$PROJECT_DIR$/themes/bex-training-themes.iml" />
+    </modules>
+  </component>
+</project>
