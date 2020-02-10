@@ -1,5 +1,6 @@
 package bex.training.artist;
 
+import bex.training.MediaTaggable;
 import com.psddev.cms.db.Content;
 import com.psddev.cms.db.ToolUi;
 import com.psddev.dari.db.Recordable;
@@ -9,7 +10,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @ToolUi.Main
-public class Artist extends Content {
+public class Artist extends Content implements MediaTaggable {
     @Recordable.Indexed
     private String preferredName;
     private String firstName;

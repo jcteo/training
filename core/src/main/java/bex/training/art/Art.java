@@ -1,11 +1,12 @@
 package bex.training.art;
 
+import bex.training.MediaTaggable;
 import bex.training.artist.Artist;
 import bex.training.museum.Museum;
 import com.psddev.cms.db.Content;
 import com.psddev.dari.util.StorageItem;
 
-public class Art extends Content {
+public class Art extends Content implements MediaTaggable {
 
     @Indexed
     private String name;
